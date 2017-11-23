@@ -34,4 +34,4 @@ candidate : 검출결과 선정에 얼마나 많은 검출후보영역이 필요
 
 # 시연 영상
 
-- http://
+- https://youtu.be/YYVQw0Iqv-g
